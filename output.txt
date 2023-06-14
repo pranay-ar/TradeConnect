@@ -1,0 +1,45 @@
+INFO:root:Starting Bazaar
+INFO:root:Starting Bazaar
+INFO:root:Starting Bazaar
+INFO:root:Starting Bazaar
+INFO:root:Starting Bazaar
+INFO:root:[2022-11-20 21:47:04.463394][Peer 1]: Election proceedings have started.
+INFO:root:[2022-11-20 21:47:04.468291][Peer 2]: Election proceedings have started.
+INFO:root:Election completed. I, Peer 6, am the new coordinator.
+INFO:root:[2022-11-20 21:47:05.488394][Peer 1]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:05.488922][Peer 2]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:05.508043][Peer 3]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:05.528386][Peer 4]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:05.535791][Peer 5]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:11.501164][Peer 1]: Election proceedings have started.
+INFO:root:Election completed. I, Peer 5, am the new coordinator.
+INFO:root:Trading begins now!
+INFO:root:[2022-11-20 21:47:14.521938][Peer 2]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:14.522160][Peer 3]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:14.522107][Peer 1]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:14.522486][Peer 4]: Won the election and message has been received
+INFO:root:[2022-11-20 21:47:14.522644][Peer 6]: Won the election and message has been received
+INFO:root:[Peer 1:] Requesting Fish
+INFO:root:[2022-11-20 21:47:20.642886][Peer 1] has purchased Fish from Peer 4 through 6
+Mark transaction complete
+INFO:root:[Peer 3:] Requesting Salt
+INFO:root:[Peer 1:] Requesting Boar
+INFO:root:[Peer 3:] Requesting Fish
+INFO:root:[Peer 1:] Requesting Salt
+INFO:root:[Peer 3:] Requesting Boar
+INFO:root:[2022-11-20 21:47:26.864573][Peer 3] has purchased Boar from Peer 2 through 6
+Mark transaction complete
+INFO:root:[Peer 1:] Requesting Fish
+INFO:root:[2022-11-20 21:47:29.705622][Peer 1] has purchased Fish from Peer 4 through 6
+Mark transaction complete
+INFO:root:[Peer 3:] Requesting Fish
+INFO:root:[Peer 1:] Requesting Boar
+INFO:root:[2022-11-20 21:47:32.744020][Peer 1] has purchased Boar from Peer 2 through 6
+Mark transaction complete
+INFO:root:[Peer 3:] Requesting Boar
+INFO:root:[Peer 1:] Requesting Salt
+INFO:root:[Peer 3:] Requesting Salt
+INFO:root:[Peer 1:] Requesting Fish
+INFO:root:[Peer 3:] Requesting Fish
+INFO:root:[2022-11-20 21:47:38.946906][Peer 3] has purchased Fish from Peer 4 through 6
+Mark transaction complete
