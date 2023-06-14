@@ -13,7 +13,7 @@ TradeConnect is a Python-based distributed trading system that simulates a robus
 
 ## Features
 
-- **Distributed System**: TradeConnect utilizes the Pyro4 library, enabling various components of the system to communicate over the network, establishing a distributed environment.
+- **Distributed System**: TradeConnect utilizes the xmlrpc library, enabling various components of the system to communicate over the network, establishing a distributed environment.
 - **Multi-threaded Operations**: Leveraging Python's threading capabilities, TradeConnect can handle multiple transactions simultaneously, providing performance and efficiency.
 - **Transaction Logging**: Every transaction is meticulously logged, and completed transactions are marked as served, providing a traceable transaction history.
 
