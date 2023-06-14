@@ -48,8 +48,8 @@ bash run.sh
 This script sets up the necessary environment and initiates the trading system.
 
 ## Code Structure
-- run.sh: A bash script to launch the system.
-- market.py: Contains the core classes and methods that handle the trading mechanism.
-- data_ops.py: Contains functions for logging transactions, marking transactions as complete, and retrieving unserved requests.
-- requirements.txt: Lists the Python packages necessary for running the project.
-- output.txt: Demonstrates a sample output from one of the runs.
+- `run.sh`: A bash script to launch the system.
+- `market.py`: Contains the core classes and methods that handle the trading mechanism.
+- `data_ops.py`: Contains functions for logging transactions, marking transactions as complete, and retrieving unserved requests.
+- `requirements.txt`: Lists the Python packages necessary for running the project.
+- `output.txt`: Demonstrates a sample output from one of the runs.
